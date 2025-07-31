@@ -1,5 +1,3 @@
-# Real-Estate
-Small website to act as landing page for consultancy
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -78,17 +76,18 @@ Small website to act as landing page for consultancy
   <section class="section features">
     <h2>What You Get</h2>
     <ul>
-      <li>📍 Google Map with 5 key categories: Builders, Agents, Rentals, Banks, Businesses</li>
-      <li>📋 Downloadable Spreadsheet (Name, Phone, Email, Address)</li>
-      <li>📱 Mobile-friendly and fully interactive</li>
-      <li>🎯 Personalized by ZIP code or neighborhood</li>
-      <li>🧭 Optional FSBO and Expired Listings add-ons</li>
+      <li> Google Map with 5 key categories: Builders, Agents, Rentals, Banks, Businesses</li>
+      <li> Downloadable Spreadsheet (Name, Phone, Email, Address)</li>
+      <li> Mobile-friendly and fully interactive</li>
+      <li> Personalized by ZIP code or neighborhood</li>
+      <li> Optional FSBO and Expired Listings add-ons</li>
     </ul>
     <a href="#contact" class="btn">Request a Free Demo Map</a>
   </section>
 
   <section class="section">
     <h2>Sample Map Preview</h2>
+    <iframe src="https://www.google.com/maps/d/embed?mid=10vujjlpYHcO0zwwWdyftFfD7q2ZgNh4&ehbc=2E312F" width="640" height="480"></iframe></a>
     <img src="screenshot-sample-map.jpg" alt="Sample map screenshot" class="screenshot">
   </section>
 
@@ -96,11 +95,12 @@ Small website to act as landing page for consultancy
     <h2>Contact</h2>
     <p>Ready to get started or have questions? Send me a message:</p>
     <p><strong>Email:</strong> neill@megannetyconsulting.com</p>
+    <p><strong>Phone:</strong> +1 929 635 8814</p>
     <p><strong>LinkedIn:</strong> <a href="https://www.linkedin.com/in/[your-profile]" target="_blank">Connect here</a></p>
   </section>
 
   <footer>
-    &copy; 2025 Neill Megannety | GIS & Lead Intelligence | NYC Based
+    &copy; 2025 Neill Megannety | GIS & Lead Intelligence | Megannety Consulting | NYC 
   </footer>
 </body>
 </html>
